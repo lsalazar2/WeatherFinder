@@ -30,27 +30,32 @@
 
 #blog-title {
     text-align: left;
-    font-size: 23px;  
+    font-size: 23px;
+    color: dimgray;  
 }
 
 #blog-location {
     font-size: 20px;
     text-align: left;
+    color: dimgray;
 }
 
 #weather-input {
     font-size: 20px;
     text-align: left;
+    color: dimgray;
 }
 
 #weather-condition {
     font-size: 20px;
     text-align: left;
+    color: dimgray;
 }
 
 #user-name {
 
     text-align: right;
+    color: dimgray;
 }
 
 #blog-delete {
